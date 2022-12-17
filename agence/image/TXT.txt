@@ -1,0 +1,38 @@
+
+
+
+
+ <div class="cnt">
+                <img src="image/imacc.png" alt="" class="shape">
+                <img src="image/bcacc.png" alt="" class="pic">
+                
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cnt{
+    width: 45%;
+    height: 90%;
+    position: relative;
+}
+.cnt img{
+    position: absolute;
+    bottom: 5;
+    background-color: #f7bcf7;
+}
+.pic{
+    width: 45%;
+    height: 60%;
+}
